@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common Python error involving type errors during list processing and a solution to handle it gracefully. The `bug.py` file shows the erroneous code that throws a TypeError when a list contains non-numeric elements.  The `bugSolution.py` file demonstrates a robust solution that prevents this type of error.
